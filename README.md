@@ -4,4 +4,4 @@ Name: Kenneth Phoeuk
 
 NSHE: 2001352101
 
-Email:phoeuk1@unlv.nevada.edu
+Email: phoeuk1@unlv.nevada.edu
